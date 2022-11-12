@@ -1,0 +1,6 @@
+Josh Jestine
+Roll  Number : 3
+Seat Number : 54034
+Class/Batch : TEITA/A1
+Subject : DevOps Lab
+Git & GitHub commands
